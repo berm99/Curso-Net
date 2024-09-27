@@ -1,0 +1,34 @@
+﻿Caracteristicas de los coches:
+	-Motor
+	-Color
+	-Consumo
+	-Cilindrada
+	-Marca
+	-Modelo
+	-Numero de ruedas
+	-Numero de puertas
+	-Numero de asientos
+
+Clase Coche:
+	Propiedad: Marca
+	Propiedad: Modelo
+	Propiedad: Color	
+	Propiedad: Consumo
+	Propiedad: Cilindrada
+	Propiedad: Numero de puertas
+	Propiedad: Numero de ruedas
+	Propiedad: Numero de asientos
+	Propiedad: Motor
+
+Clase Motor: 
+	Propiedad: Cilindrada
+	Propiedad: Consumo
+	Propiedad: Potencia
+
+Clase Rueda:
+	Propiedad: Diametro
+	Propiedad: Ancho
+	Propiedad: Perfil
+
+Html: es una forma de representar informacion de forma estandarizada sin importar desde que dispositivo se muestra
+MVC es el proyecto mas sencillo para crear aplicaciones web
