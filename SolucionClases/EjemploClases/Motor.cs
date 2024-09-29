@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace EjemploClases;
 
-internal class Motor
+public class Motor
 {
-    private int Cilindrada;
-    private int Potencia;
-    private string Combustible;
-    private double Consumo;
+    public int Cilindrada { get; set; }
+    public int Potencia { get; set; }
+    public string Combustible { get; set; }
+    public double Consumo { get; set; }
 }
